@@ -1,2 +1,2 @@
-# Simple_sgtax_calculator
+# Simple_Sgtax_calculator
 A simple Singapore tax calculator. 
